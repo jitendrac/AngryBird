@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\BaseClass.cs">
+    <Files>
+      <File FileName="Assets\Script\SphereScript.cs" Line="7" Column="38" />
+      <File FileName="Assets\Script\BaseClass.cs" Line="133" Column="27" />
+      <File FileName="NewDLL\NEwClass.cs" Line="18" Column="43" />
+      <File FileName="Assets\Script\CameraScript.cs" Line="30" Column="76" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
